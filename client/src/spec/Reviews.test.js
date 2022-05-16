@@ -6,6 +6,7 @@ configure({ adapter: new Adapter() });
 import Reviews from '../component/Reviews/Reviews.jsx';
 import Feed from '../component/Reviews/Feed.jsx';
 
+
 const data = [{
   "body": "Pretty Meh",
   "date": "2022-04-01T00:00:00.000Z",
